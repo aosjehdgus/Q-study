@@ -22,6 +22,7 @@
 - <p> Task performance (과제 수행하기)</p>
 - <p> Feedback on the work performed (수행된 과제 피드백 하기)</p>
 
+---
 
 <h3> :clipboard: Commit Rule </h3>
 
